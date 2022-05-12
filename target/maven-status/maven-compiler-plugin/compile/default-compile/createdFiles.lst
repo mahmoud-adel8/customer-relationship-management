@@ -1,0 +1,9 @@
+org\example\crm\TestingConnection.class
+org\example\crm\config\DispatcherServletInitializer.class
+org\example\crm\service\CustomerService.class
+org\example\crm\entity\Customer.class
+org\example\crm\config\AppConfig.class
+org\example\crm\service\CustomerServiceImpl.class
+org\example\crm\controller\CustomerRestController.class
+org\example\crm\dao\CustomerDAOImpl.class
+org\example\crm\dao\CustomerDAO.class
