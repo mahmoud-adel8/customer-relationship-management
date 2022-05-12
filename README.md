@@ -1,12 +1,10 @@
 # Customer Relationship Management
 
----
 
 A simple customer relationship management API system that keeps track of customers’ data located in a database.
 
 # APIs
 
----
 
 | HTTP Method | endpoint | Action |
 | --- | --- | --- |
@@ -18,7 +16,6 @@ A simple customer relationship management API system that keeps track of custome
 
 # Built with
 
----
 
 - Spring MVC - The web framework used
 - Hibernate - The ORM used
